@@ -5,7 +5,7 @@ volumes:
 services:
     geckodriver:
         build:
-            context: geckodriver
+            context: .
         volumes:
             - /etc/machine-id:/etc/machine-id
             - xauth:/tmp/xauth
