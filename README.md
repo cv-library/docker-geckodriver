@@ -9,7 +9,7 @@ will listen on port 5900.
 
 ## Versions
 
-Currently geckodriver 0.13 is installed along with the latest Firefox package
+Currently geckodriver 0.27 is installed along with the latest Firefox package
 from Debian sid.
 
 ## Customising Firefox profile
